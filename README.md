@@ -19,7 +19,7 @@ Projects I’m Proud Of
 What I’m Currently Learning
 
 	•	System Design: Taking a beginner’s course to deepen my understanding of designing scalable and efficient systems.
-	•	Image Processing: I plan to start a new project soon to explore image processing techniques.
+	•	Distributed High Performance Key Value Store in Golang. Using this project as a way to get accustomed to go for future projects
 
 Let’s Collaborate!
 
