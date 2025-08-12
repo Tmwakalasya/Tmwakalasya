@@ -1,5 +1,5 @@
 # 💫 About Me:
-•	System Design: Taking a beginner’s course to deepen my understanding of designing scalable and efficient systems.<br>•	Distributed High Performance Key Value Store in Golang. Using this project as a way to get accustomed to go for future projects<br>•	Distributed Systems<br>•	Artificial Intelligence and Machine Learning<br>•	Mathematics<br>•	Quantitative Finance
+•	System Design:Spending my time deepening my understanding of designing scalable and efficient systems.<br>•	Distributed High Performance Key Value Store in Golang. Building a distributed content ingestion pipeline, similar to Netflix's backend.<br>•	Distributed Systems<br>•	Artificial Intelligence and Machine Learning<br>•	Mathematics<br>•	Quantitative Finance
 
 
 ## 🌐 Socials:
